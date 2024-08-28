@@ -1,0 +1,64 @@
+{
+  "keyboards": [
+    {
+      "id": 1,
+      "model": "KBD75",
+      "brand": "Keychron",
+      "switchType": "Cherry MX Red",
+      "keycapMaterial": "PBT",
+      "connectionType": ["USB", "BT"],
+      "isErgonomic": true,
+      "hasRGB": true,
+      "currentPrice": 100,
+      "releaseDate": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "model": "GMMK Pro",
+      "brand": "Glorious",
+      "switchType": "Gateron Brown",
+      "keycapMaterial": "ABS",
+      "connectionType": ["USB", "2.4"],
+      "isErgonomic": false,
+      "hasRGB": true,
+      "currentPrice": 150,
+      "releaseDate": "2024-02-20T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "model": "Ducky One 2 Mini",
+      "brand": "Ducky",
+      "switchType": "Cherry MX Blue",
+      "keycapMaterial": "PBT",
+      "connectionType": ["USB"],
+      "isErgonomic": true,
+      "hasRGB": true,
+      "currentPrice": 130,
+      "releaseDate": "2024-03-10T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "model": "Corsair K95 RGB",
+      "brand": "Corsair",
+      "switchType": "Cherry MX Speed",
+      "keycapMaterial": "ABS",
+      "connectionType": ["USB"],
+      "isErgonomic": false,
+      "hasRGB": true,
+      "currentPrice": 180,
+      "releaseDate": "2024-04-05T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "model": "Razer BlackWidow V3",
+      "brand": "Razer",
+      "switchType": "Razer Green",
+      "keycapMaterial": "ABS",
+      "connectionType": ["USB"],
+      "isErgonomic": true,
+      "hasRGB": true,
+      "currentPrice": 140,
+      "releaseDate": "2024-05-22T00:00:00.000Z"
+    }
+  ]
+}
